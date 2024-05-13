@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-12T11:08:08.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="iWKSKXYjSZHickzhjjQs" version="24.3.1" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2024-05-13T10:50:14.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="_31s-0RomWX-Gtf-CRvz" version="24.3.1" type="github" pages="17">
   <diagram id="lcsJ34uvNqE2Nv-qU3_8" name="EL">
     <mxGraphModel dx="794" dy="424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3967,7 +3967,7 @@
         <mxCell id="sFskGuqDrHFj41sW2G_7-29" value="Session mgmt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="530" y="440" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sFskGuqDrHFj41sW2G_7-30" value="Resource mgmt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+        <mxCell id="sFskGuqDrHFj41sW2G_7-30" value="Resources mgmt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="530" y="500" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sFskGuqDrHFj41sW2G_7-33" value="CMS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
